@@ -41,3 +41,4 @@ public:
         return res;
     }
 };
+// find out solution at:https://leetcode.com/problems/majority-frequency-characters/solutions/7228751/c-better-beats-100/
