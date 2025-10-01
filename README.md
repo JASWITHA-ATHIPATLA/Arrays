@@ -19,10 +19,10 @@
 
 | Difficulty | Problem | Acceptance % | Frequency | Link | Tags |
 |------------|----------|--------------|-----------|------|------|
-| 🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window |
 | 🟢 Easy | Valid Parentheses | 65.8% | 0.423 | [LeetCode](https://leetcode.com/problems/valid-parentheses) | String, Stack |
 | 🟢 Easy | Majority Element | 61.5% | 0.657 | [LeetCode](https://leetcode.com/problems/majority-element) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 🟠 Medium | Product of Array Except Self | 61.5% | 0.678 | [LeetCode](https://leetcode.com/problems/product-of-array-except-self) | Array, Prefix Sum |
+| 🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window |
 | 🟠 Medium | Letter Combinations of a Phone Number | 61.5% | 0.639 | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String, Backtracking |
 | 🟠 Medium | Add Two Numbers | 61.5% | 0.462 | [LeetCode](https://leetcode.com/problems/add-two-numbers) | Linked List, Math, Recursion |
 | 🟠 Medium | Container With Most Water | 61.5% | 0.578 | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Array, Two Pointers, Greedy |
