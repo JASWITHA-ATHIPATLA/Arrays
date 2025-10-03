@@ -29,3 +29,4 @@
 | 🟠 Medium | Add Two Numbers | 61.5% | 0.462 | [LeetCode](https://leetcode.com/problems/add-two-numbers) | Linked List, Math, Recursion |
 | 🟠 Medium | Container With Most Water | 61.5% | 0.578 | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Array, Two Pointers, Greedy |
 | 🟠 Medium | Reverse Integer | 📊 30.3% | ⚡ 0.303 | [LeetCode](https://leetcode.com/problems/reverse-integer) |  Math  
+| 🟠 Medium | Largest Number | 📊 41.2% | ⚡ 0.413 | [LeetCode](https://leetcode.com/problems/largest-number) | Array,String,Greedy,Sorting  
