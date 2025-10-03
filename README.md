@@ -28,4 +28,4 @@
 | 🟠 Medium | Letter Combinations of a Phone Number | 61.5% | 0.639 | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String, Backtracking |
 | 🟠 Medium | Add Two Numbers | 61.5% | 0.462 | [LeetCode](https://leetcode.com/problems/add-two-numbers) | Linked List, Math, Recursion |
 | 🟠 Medium | Container With Most Water | 61.5% | 0.578 | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Array, Two Pointers, Greedy |
-
+| 🟠 Medium | Reverse Integer | 📊 30.3% | ⚡ 0.303 | [LeetCode](https://leetcode.com/problems/reverse-integer) |  Math  
