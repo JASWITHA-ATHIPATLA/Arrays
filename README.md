@@ -1,4 +1,4 @@
-# Accenture previous year questions-- Follow for creaking dreem placements
+# Questions that have appeared in Accenture’s previous placement-- Follow for creaking dreem placements
 # LeetCode Progress Tracker
 
 | Status | Difficulty | Title                        | Frequency | Acceptance | Link                                                                 | Topics                                      |
