@@ -20,7 +20,7 @@
 # String Problems
 🟢 Easy | Valid Parentheses | 65.8% | 0.423 | [LeetCode](https://leetcode.com/problems/valid-parentheses) | String, Stack  
 🟢 Easy | Truncate Sentence | 39.9% | 0.861 | [LeetCode](https://leetcode.com/problems/truncate-sentence) | Array, String  
-🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) |Hash Table , String ,Sliding Window
+🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) |Hash Table ,String ,Sliding Window
 
 🟠 Medium | Letter Combinations of a Phone Number | 61.5% | 0.639 | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String, Backtracking  
 🟠 Medium | Largest Number | 41.2% | 0.413 | [LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Greedy, Sorting  
