@@ -23,7 +23,7 @@
 🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) |Hash Table ,String ,Sliding Window
 
 🟠 Medium | Letter Combinations of a Phone Number | 61.5% | 0.639 | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String, Backtracking  
-🟠 Medium | Largest Number | 41.2% | 0.413 | [LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Greedy, Sorting  
+🟠 Medium | Largest Number | 41.2% | 0.413 | [LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Greedy,  Sorting  
 # Array Problems
 🟢 Easy | Majority Element | 61.5% | 0.657 | [LeetCode](https://leetcode.com/problems/majority-element) | Array, Hash Table, Divide & Conquer, Sorting, Counting  
 🟢 Easy | Binary Search | 39.9% | 0.596 | [LeetCode](https://leetcode.com/problems/binary-search) | Array, Binary Search  
