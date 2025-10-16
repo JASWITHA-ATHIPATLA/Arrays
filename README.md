@@ -18,7 +18,7 @@
 # LeetCode Problem Tracker
 # Adding Accenture previous year questions
 # String Problems
-🟢 Easy | Valid Parentheses | 65.8% | 0.423 | [LeetCode](https://leetcode.com/problems/valid-parentheses) | String, Stack  
+🟢 Easy | Valid Parentheses | 65.8% | 0.423 | [LeetCode](https://leetcode.com/problems/valid-parentheses) | String,  Stack  
 🟢 Easy | Truncate Sentence | 39.9% | 0.861 | [LeetCode](https://leetcode.com/problems/truncate-sentence) | Array, String  
 🟠 Medium | Longest Substring Without Repeating Characters | 65.8% | 0.369 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) |Hash Table ,String ,Sliding Window
 
