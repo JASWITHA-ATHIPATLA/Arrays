@@ -3,7 +3,7 @@
 
 | Status | Difficulty | Title                        | Frequency | Acceptance | Link                                                                 | Topics                                      |
 |--------|------------|------------------------------|-----------|------------|----------------------------------------------------------------------|---------------------------------------------|
-|[ ]    | MEDIUM     | Bulb Switcher               | 100       | 0.5408     | [Link](https://leetcode.com/problems/bulb-switcher)                      | Math, Brainteaser                           |
+|[ ]    | MEDIUM     | Bulb Switcher               | 100       | 0.5408         | [Link](https://leetcode.com/problems/bulb-switcher)                      | Math, Brainteaser                           |
 |[done ]    | EASY       | Happy Number                | 98        | 0.5807     | [Link](https://leetcode.com/problems/happy-number)                   | Hash Table, Math, Two Pointers              |
 |[ done]    | EASY       | Two Sum                     | 94.7      | 0.5578     | [Link](https://leetcode.com/problems/two-sum)                        | Array, Hash Table                           |
 |[ ]    | EASY       | Climbing Stairs             | 89.3      | 0.5354         | [Link](https://leetcode.com/problems/climbing-stairs)                    | Math, Dynamic Programming, Memoization      |
