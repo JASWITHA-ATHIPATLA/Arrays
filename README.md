@@ -30,7 +30,7 @@
 |--------------|-------------------------------------|------------|------------------|----------------------------------------------------------------------|----------------------------------------------------------|
 | 🟢 Easy      | Majority Element                     | 61.5%      | 0.657            | [LeetCode](https://leetcode.com/problems/majority-element)          | Array, Hash Table, Divide & Conquer, Sorting, Counting   |
 | 🟢 Easy      | Binary Search                        | 39.9%      | 0.596            | [LeetCode](https://leetcode.com/problems/binary-search)             | Array, Binary Search                                     |
-| 🟠 Medium    | Product of Array Except Self         | 61.5%      | 0.678            | [LeetCode](https://leetcode.com/problems/product-of-array-except-self) | Array, Prefix Sum                                      |
+| 🟠 Medium    | Product of Array Except Self         | 61.5%      | 0.678            | [LeetCode](https://leetcode.com/problems/product-of-array-except-self) | Array, Prefix Sum                                     |
 | 🟠 Medium    | Add Two Numbers                      | 61.5%      | 0.462            | [LeetCode](https://leetcode.com/problems/add-two-numbers)           | Linked List, Math, Recursion                             |
 | 🟠 Medium    | Container With Most Water            | 61.5%      | 0.578            | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Array, Two Pointers, Greedy                              |
 | 🟠 Medium    | Reverse Integer                      | 30.3%      | 0.303            | [LeetCode](https://leetcode.com/problems/reverse-integer)           | Math                                                     |
