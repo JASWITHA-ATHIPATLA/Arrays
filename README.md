@@ -1,7 +1,7 @@
 # Questions that have appeared in Accenture’s previous placement -- Follow for creaking dreem placement
 # LeetCode Progress Tracker
 
-| Status | Difficulty | Title                        | Frequency | Acceptance | Link                                                                 | Topics                                      |
+| Status | Difficulty | Title                        | Frequency | Acceptance | Link                                                                 | Topics                                        |
 |--------|------------|------------------------------|-----------|------------|----------------------------------------------------------------------|---------------------------------------------  |
 |[ ]    | MEDIUM     | Bulb Switcher               | 100       | 0.5408         | [Link](https://leetcode.com/problems/bulb-switcher)                      | Math, Brainteaser                       |
 |[done ]    | EASY       | Happy Number                | 98        | 0.5807     | [Link](https://leetcode.com/problems/happy-number)                   | Hash Table, Math, Two Pointers              |
